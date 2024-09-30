@@ -23,7 +23,7 @@ jobs:
       - name: Run Test
         run: echo Run Test
 
-   deploy:
+  deploy:
 
     runs-on: ubuntu-latest
 
